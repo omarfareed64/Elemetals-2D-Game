@@ -1,0 +1,2 @@
+. filter=lfs diff=lfs merge=lfs -text
+level[[:space:]]design/** filter=lfs diff=lfs merge=lfs -text
